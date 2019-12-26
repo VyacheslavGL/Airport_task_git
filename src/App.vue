@@ -17,7 +17,6 @@
                 <v-icon>mdi-account-supervisor-outline</v-icon>
                 <span class="mr-2">Сотрудники</span>
             </v-btn>
-
         </v-app-bar>
 
         <v-content>
